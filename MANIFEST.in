@@ -10,6 +10,3 @@ include src/gaia/interface/img/*
 # Include license and readme
 include LICENSE
 include README.md
-
-# Include evaluation webapp files
-recursive-include src/gaia/eval/webapp *
